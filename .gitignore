@@ -1,0 +1,26 @@
+# Godot generated/editor files
+.godot/
+.import/
+*.translation
+export.cfg
+export_presets.cfg
+
+# Builds / exports
+builds/
+exports/
+*.exe
+*.pck
+*.zip
+
+# Runtime proof logs
+proof_logs/*.log
+!proof_logs/.gitkeep
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local save data should not be tracked
+user://
